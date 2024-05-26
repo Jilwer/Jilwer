@@ -4,7 +4,7 @@ Low tier software developer, high tier procrastinator.
 ## About Me
 - I'm interested in full stack development.
 - I am proficient in Go, Rust, and the MERN Stack.
-- I love learning new technlogies and staying up to date with the latest trends in the tech industry.
+- I love learning new technologies and staying up to date with the latest trends in the tech industry.
 
 
 ## Skills
