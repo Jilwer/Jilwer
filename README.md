@@ -31,7 +31,3 @@ Low tier software developer, high tier procrastinator.
 ### Tools and IDEs
 ![JetBrains](https://img.shields.io/badge/-JetBrains-000000?style=flat-square&logo=jetbrains&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-
-## Profile Views
-
-![Jilwer](https://count.getloli.com/get/@Jilwer)
